@@ -1,4 +1,5 @@
 comandos basicos
+```
 git clone
 git init
 git log
@@ -11,3 +12,5 @@ git pull
 git add
 git add .
 git remote <fech> <branch>
+
+```
